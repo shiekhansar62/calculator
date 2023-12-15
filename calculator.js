@@ -19,4 +19,3 @@ else if (operator == '/') {
 else {
     console.log("please select the correct operator");
 }
-// for the sake of github desktop
